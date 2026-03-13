@@ -1,0 +1,10 @@
+D:\vsRepos\3D_lab2\3D_lab2\bin\Debug\3D_lab2.exe.config
+D:\vsRepos\3D_lab2\3D_lab2\bin\Debug\3D_lab2.exe
+D:\vsRepos\3D_lab2\3D_lab2\bin\Debug\3D_lab2.pdb
+D:\vsRepos\3D_lab2\3D_lab2\obj\Debug\3D_lab2.csproj.AssemblyReference.cache
+D:\vsRepos\3D_lab2\3D_lab2\obj\Debug\_3D_lab2.Form1.resources
+D:\vsRepos\3D_lab2\3D_lab2\obj\Debug\_3D_lab2.Properties.Resources.resources
+D:\vsRepos\3D_lab2\3D_lab2\obj\Debug\3D_lab2.csproj.GenerateResource.cache
+D:\vsRepos\3D_lab2\3D_lab2\obj\Debug\3D_lab2.csproj.CoreCompileInputs.cache
+D:\vsRepos\3D_lab2\3D_lab2\obj\Debug\3D_lab2.exe
+D:\vsRepos\3D_lab2\3D_lab2\obj\Debug\3D_lab2.pdb
